@@ -35,6 +35,7 @@
 
 // ── Chapters ───────────────────────────────────────────────────────────────
 // Uncomment / add lines below as you write new chapters:
-#include "chapters/ch01-python-foundations.typ"
-// #include "chapters/ch02-data-structures.typ"
-// #include "chapters/ch03-design-patterns.typ"
+#include "chapters/ch01-principles.typ"
+#include "chapters/ch02-python-features.typ"
+#include "chapters/ch03-collaborative-dev.typ"
+

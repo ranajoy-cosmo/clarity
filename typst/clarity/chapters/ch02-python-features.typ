@@ -1,7 +1,7 @@
-// chapters/ch01-python-foundations.typ
+// chapters/ch02-python-features.typ
 #import "../theme.typ": note, tip, warning, danger, chapter-intro
 
-= Foundations of Production Python
+= Python Features
 
 #chapter-intro[
   Python rewards the programmer who understands its idioms. This chapter
