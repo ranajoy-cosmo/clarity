@@ -38,4 +38,5 @@
 #include "chapters/ch01-principles.typ"
 #include "chapters/ch02-python-features.typ"
 #include "chapters/ch03-collaborative-dev.typ"
+#include "chapters/ch04-production-practices.typ"
 
