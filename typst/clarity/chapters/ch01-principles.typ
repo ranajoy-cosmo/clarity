@@ -4,7 +4,7 @@
 = Principles of Good Production Code
 
 #chapter-intro[
-  Blah blah blah
+Along my coding journey I've discovered and re-invented a lot of principles. If I have a strong message to give my early-20s self, it's this: You're standing on the shoulder of giants who came before you, and bult wonderful things. Learn from them as much as you can, yet don't stop at pushing the boundaries of what is considered great.
 ]
 
 == Principles from some of the best places in the industry
